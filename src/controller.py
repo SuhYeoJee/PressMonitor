@@ -1,6 +1,6 @@
 if __debug__:
     import sys
-    sys.path.append(r"D:\Github\SinterMonitor")
+    sys.path.append(r"D:\Github\PressMonitor")
 # -------------------------------------------------------------------------------------------
 from src.model import Model
 from src.view import View    

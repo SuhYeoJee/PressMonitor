@@ -1,6 +1,6 @@
 if __debug__:
     import sys
-    sys.path.append(r"D:\Github\SinterMonitor")
+    sys.path.append(r"D:\Github\PressMonitor")
 # -------------------------------------------------------------------------------------------
 from src.module.pyqt_imports import *
 from src.module.window_builder import WindowBuilder
